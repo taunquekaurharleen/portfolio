@@ -1,2 +1,2 @@
 # portfolio
-technical portfolio
+fun portfolio
